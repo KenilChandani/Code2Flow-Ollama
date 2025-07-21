@@ -1,0 +1,5 @@
+ollama
+aiohttp
+requests
+graphviz
+streamlit
