@@ -1,0 +1,1 @@
+SELECT hire_date  FROM ds_tt.employee_mk em 
